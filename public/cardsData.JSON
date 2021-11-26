@@ -1,0 +1,48 @@
+[
+    {
+        "key": "B002R",
+        "category": "Ofline",
+        "name": "Freelancing",
+        "enroll": "5M",
+        "price": 69,
+        "img": "https://onlineparttime.com/wp-content/uploads/2021/06/Freelance-Job-Categories.png"
+        
+
+    },
+    {
+        "key": "30%off",
+        "category": "Ofline",
+        "name": "UI/UX",
+        "enroll": "4M",
+        "price": 353,
+        "img": "https://anteelo.com/wp-content/uploads/2021/05/UIUX-designing-1.jpg"
+        
+
+    },
+    {
+        "key": "25%Off",
+        "category": "Online",
+        "name": "Digital Marketing",
+        "enroll": "1M",
+        "price": 100,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyrRgkvziRMUB21w738y28vFjceEYuLjSs4g&usqp=CAU"
+        
+
+    },
+    {
+        "key": "30%off",
+        "category": "Online ",
+        "name": "UI/UX",
+        "enroll": "4M",
+        "price": 35,
+        "img": "https://www.ingeniumweb.com/in/images/tips-and-tricks-to-improve-your-ui-ux-design-skills/4507.png"
+        
+
+    }
+   
+   
+    
+    
+   
+  
+]
