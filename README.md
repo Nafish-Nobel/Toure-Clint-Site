@@ -11,7 +11,4 @@
 
 LIVE SITE : https://toure-site-by-nafish-nobel.netlify.app/
 
-Client  GIT LInk : https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-Nafish-Nobel.git
-
-Server Git Link : https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-Nafish-Nobel.git
 "# Toure-Clint-Site" 
